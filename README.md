@@ -52,21 +52,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Cloud, DevOps & Databases</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,postgres,mysql,git,linux&theme=dark" />
-  </a>
-
-</p>
-
-  
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%202.5-8E75B2?style=flat&logo=google&logoColor=white" />
-
-  <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=vue&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
