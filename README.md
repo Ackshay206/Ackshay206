@@ -2,9 +2,9 @@
 
   ## Hi there, I'm Ackshay! 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=AI%2FML+Graduate+Student+%40+Northeastern;Building+Agents+%26+RAG+Systems" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=AI%2FML+Graduate+Student+%40+Northeastern;Building+Agents+%26+RAG+Systems" alt="Typing SVG" />
+</a>
 
   <p>
     I am an AI/ML graduate student and Teaching Assistant at Northeastern University, building real-world systems with LLMs, RAG, and agentic AI.
@@ -41,7 +41,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=dracula&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=tokyonight&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
  
 
