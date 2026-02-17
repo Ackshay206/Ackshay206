@@ -41,7 +41,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=dracula&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
  
 
