@@ -27,29 +27,16 @@
  <h3>My Skills</h3>
 
 <p align="center">
-  <strong>Languages & Core</strong><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,html,css,pytorch,tensorflow,opencv,fastapi,react,nextjs,nodejs,express,flask,tailwind&&theme=dark&perline=8" />
   </a>
 </p>
 
 <p align="center">
-  <strong>AI/ML & Deep Learning</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-  </a>
-  <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-</p>
-
-<p align="center">
-  <strong>Web & Backend</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,express,flask,tailwind&theme=dark" />
-  </a>
 </p>
 
 
