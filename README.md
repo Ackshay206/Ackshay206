@@ -26,7 +26,7 @@
 
   <br/>
 
-  <h3>🛠️ My Skills</h3>
+  <h3>My Skills</h3>
   <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=py,ts,cpp,pytorch,tensorflow,react,nextjs,fastapi,aws,docker,kubernetes,git,vscode&theme=dracula" />
