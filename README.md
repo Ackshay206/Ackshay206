@@ -40,7 +40,7 @@
 </p>
 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=vue&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=merko&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
  
 
