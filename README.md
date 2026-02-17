@@ -3,7 +3,7 @@
   ## Hi there, I'm Ackshay! 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=AI%2FML+Graduate+Student+%40+Northeastern;Building+Agents+%26+RAG+Systems;TA+for+Foundations+of+GenAI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=AI%2FML+Graduate+Student+%40+Northeastern;Building+Agents+%26+RAG+Systems" alt="Typing SVG" />
   </a>
 
   <p>
@@ -26,10 +26,14 @@
 
   <br/>
 
-  <h3>🛠️ Technical Arsenal</h3>
+  <h3>🛠️ My Skills</h3>
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,cpp,pytorch,tensorflow,react,nextjs,fastapi,aws,docker,kubernetes,git,linux,md,vscode&theme=tokyonight" />
+     <img src="https://skillicons.dev/icons?i=py,ts,cpp,pytorch,tensorflow,react,nextjs,fastapi,aws,docker,kubernetes,git,vscode&theme=dracula" />
   </a>
+</p>
+   
+  
   <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=github&logoColor=white" />
@@ -39,8 +43,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ackshay206&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ackshay206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="Stats" />
+ 
 
 </div>
