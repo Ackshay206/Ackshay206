@@ -3,7 +3,7 @@
   ### Hi there, I'm Ackshay! 
 
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=25&pause=1000&color=69FF94&center=true&vCenter=true&width=500&lines=AI%2FML+Graduate+Student+%40+Northeastern+UniversitY;Building+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=25&pause=1000&color=69FF94&center=true&vCenter=true&width=500&lines=AI%2FML+Graduate+Student+%40+Northeastern+University;Building+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
 </a>
 
   <p>
